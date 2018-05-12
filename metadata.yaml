@@ -1,0 +1,35 @@
+_repo: O-poeta-Chiado--13--Novas-investiga--es-sobre-a-sua-vida-e-escriptos-_22509
+_version: 0.1.0
+alternative_title: "O poeta Chiado\r\n(Novas investigações sobre a sua vida e escritos)"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pimentel, Alberto
+    alias: Pimentel, Alberto Augusto de Almeida
+    birthdate: 1849
+    deathdate: 1925
+    gutenberg_agent_id: '25371'
+    url: http://www.gutenberg.org/2009/agents/25371
+    wikipedia: http://pt.wikipedia.org/wiki/Alberto_Pimentel
+description: ''
+gutenberg_bookshelf: PT Biografia
+gutenberg_issued: '2007-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22509'
+language: pt
+language_note: This ebook uses a beginning of the 20th century spelling
+production_note: "Produced by Pedro Saborano. (produced from scanned images\r\nof\
+  \ public domain material from Google Book Search)"
+publication_note: "Lisboa:\r\nEmpreza da Historia de Portugal.\r\nSociedade editora\r\
+  \nLivraria Moderna\r\nR. Augusta, 95\r\nTypographia\r\n35, R. Ivens, 37\r\n1903"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Chiado, António Ribeiro, approximately 1520-1591'
+title: "O poeta Chiado\r\n(Novas investigações sobre a sua vida e escriptos)"
+url: http://www.gutenberg.org/ebooks/22509
