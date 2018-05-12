@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25371
     wikipedia: http://pt.wikipedia.org/wiki/Alberto_Pimentel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22509#O-poeta-Chiado--13--Novas-investiga--es-sobre-a-sua-vida-e-escriptos-
 gutenberg_bookshelf: PT Biografia
 gutenberg_issued: '2007-09-04'
 gutenberg_type: Text
